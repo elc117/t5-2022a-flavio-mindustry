@@ -111,4 +111,4 @@ De qualquer forma, a ideia geral da relação entre as classes e pacotes não se
 
 Resumidamente, as relações do jogo se seguem na imagem a seguir. Não é, obviamente um diagrama de classes (até porque existem mais de 600 delas), mas dá uma ideia geral do funcionamento do programa:
 
-![img/overview.png](img/overview.png)
+![img/overview.svg](img/overview.svg)
